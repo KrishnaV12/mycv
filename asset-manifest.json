@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/mycv/static/css/main.db4b3906.chunk.css",
+    "main.js": "/mycv/static/js/main.b98dfe2f.chunk.js",
+    "main.js.map": "/mycv/static/js/main.b98dfe2f.chunk.js.map",
+    "runtime-main.js": "/mycv/static/js/runtime-main.7e327cb6.js",
+    "runtime-main.js.map": "/mycv/static/js/runtime-main.7e327cb6.js.map",
+    "static/css/2.f2512455.chunk.css": "/mycv/static/css/2.f2512455.chunk.css",
+    "static/js/2.b10a573c.chunk.js": "/mycv/static/js/2.b10a573c.chunk.js",
+    "static/js/2.b10a573c.chunk.js.map": "/mycv/static/js/2.b10a573c.chunk.js.map",
+    "index.html": "/mycv/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/mycv/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.db4b3906.chunk.css.map": "/mycv/static/css/main.db4b3906.chunk.css.map",
+    "static/js/2.b10a573c.chunk.js.LICENSE.txt": "/mycv/static/js/2.b10a573c.chunk.js.LICENSE.txt",
+    "static/media/covid.70134e28.png": "/mycv/static/media/covid.70134e28.png",
+    "static/media/css.da2e85ba.svg": "/mycv/static/media/css.da2e85ba.svg",
+    "static/media/facebook.c65f8ba6.svg": "/mycv/static/media/facebook.c65f8ba6.svg",
+    "static/media/gas.f4348ecc.png": "/mycv/static/media/gas.f4348ecc.png",
+    "static/media/github.f01c5170.svg": "/mycv/static/media/github.f01c5170.svg",
+    "static/media/instagram.5377a69a.svg": "/mycv/static/media/instagram.5377a69a.svg",
+    "static/media/intruder.2e7ecdc0.png": "/mycv/static/media/intruder.2e7ecdc0.png",
+    "static/media/linkedin.09211630.svg": "/mycv/static/media/linkedin.09211630.svg",
+    "static/media/port.59dd64a7.png": "/mycv/static/media/port.59dd64a7.png",
+    "static/media/profile.55d92e87.jpg": "/mycv/static/media/profile.55d92e87.jpg",
+    "static/media/python.cdffb0d5.svg": "/mycv/static/media/python.cdffb0d5.svg",
+    "static/media/react.2f7c9efd.svg": "/mycv/static/media/react.2f7c9efd.svg",
+    "static/media/repair.2c4f4278.svg": "/mycv/static/media/repair.2c4f4278.svg",
+    "static/media/res.3662f916.png": "/mycv/static/media/res.3662f916.png",
+    "static/media/resume.b806b118.pdf": "/mycv/static/media/resume.b806b118.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e327cb6.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.b10a573c.chunk.js",
+    "static/css/main.db4b3906.chunk.css",
+    "static/js/main.b98dfe2f.chunk.js"
+  ]
+}
