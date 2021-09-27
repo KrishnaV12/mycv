@@ -21,12 +21,14 @@ const App=()=>{
             <Sidebar/>
             
           </div>
-          <div className="col-lg-9 main_portion"><Navbar/><Resume/>
-          
-         
+          <div className="col-lg-9 main_portion"><Navbar/>
+          <Switch>
+
+          <Resume/>
           <Route path="/Project">
           <Project/>
           </Route>
+          </Switch>
           
           
           </div>
