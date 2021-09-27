@@ -22,17 +22,12 @@ const App=()=>{
             
           </div>
           <div className="col-lg-9 main_portion"><Navbar/>
-          <Switch>
-          <Route exact path="/Resume">
+          
           <Resume/>
-          </Route>
-          <Route path="/Project">
-          <Project/>
-          </Route>
           <Route>
             <Redirect to="Resume" />
           </Route>
-          </Switch>
+          
           </div>
         </div>
         </div>
