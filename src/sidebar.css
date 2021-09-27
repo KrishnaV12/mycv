@@ -1,0 +1,104 @@
+a{
+    text-decoration: none;
+    color: lightslategray;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+
+.sidebar_avatar{
+    height: 250px;
+    width: 250px;
+    object-fit: contain;
+    border-radius: 20px;
+}
+
+.sidebar{
+  background-color: rgb(212, 217, 221);
+  height: 100%;
+  border-radius: 10px;
+  padding:25px 15px;
+  box-shadow: 0 0 10px grey ;
+  text-align: center;
+}
+
+.sidebar_icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 18px;
+    margin-right: 10px;
+}
+
+.sidebar_name{
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px 0;
+    font-size: 1.8rem;
+    
+
+}
+
+.sidebar_name{
+    color: rgb(14, 13, 13);
+   
+}
+.sidebar_item{
+    margin-bottom: 6px;
+    margin-top:13px;
+    height: 40px;
+    font-size: 1.3rem;
+    border-radius: 30px;
+    
+
+}
+
+
+
+
+.sidebar_title{
+    background-color: #bdc3c7;
+    border-radius: 10px;
+}
+
+.contact{
+    background-color:#bdc3c7;
+    padding: 60px 2px;
+    margin-top: 20px 0;
+    margin: 20px -15px;
+    border-radius: 10px;
+   
+   
+}
+
+.sidebar_email{
+    background-color: cadetblue;
+    border-radius: 50px;
+    margin-top: 80px;
+    color: #fff;
+    margin: 30px 25px 0px;
+    cursor: pointer;
+    transition: all 3s linear;
+    
+
+}
+
+.sidebar_email:hover{
+    transform: scale(1.2);
+}
+
+.sidebar_github:hover,
+.sidebar_resume:hover{
+    background-color: #bdc3c7;
+    color: black;
+    border-radius: 10px;
+
+}
+
+@media(max-width:991px){
+    .main_portion{
+        margin: 30px 0;
+
+    }
+}
